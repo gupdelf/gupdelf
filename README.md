@@ -10,13 +10,13 @@
 > *Conecte-se comigo:*
 
 <div id="badges" align="center">
-  	<a href="https://www.linkedin.com/in/pdgusta/">
+  	<a href="https://www.linkedin.com/in/pdgusta/" target="_blank">
 		<img src="https://img.shields.io/badge/gustavopottdelfino-blue?logo=linkedin&style=flat-square" alt="LinkedIn"/>
   	</a>
-	<a href="mailto:gustavopottpott@gmail.com">
+	<a href="mailto:gustavopottpott@gmail.com" target="_blank">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="gustavopottpott@gmail.com" tittle="gustavopottpott@gmail.com"/>
 	</a>
-	<a href="https://www.hackerrank.com/gustavopottpott">
+	<a href="https://www.hackerrank.com/gustavopottpott" target="_blank">
 		<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" alt="HackerRank"/>
   	</a>
 	<br/>
@@ -24,7 +24,9 @@
 	<!--img src="https://img.shields.io/github/followers/gupdelf.svg?style=social&label=Follow&maxAge=2592000" alt="gh followers"/-->
 	<br/>
 	<br/>
-	<img src="https://tryhackme-badges.s3.amazonaws.com/pdgusta.png" alt="TryHackMe">
+	<a href="https://tryhackme.com/p/pdgusta" target="_blank">
+		<img src="https://tryhackme-badges.s3.amazonaws.com/pdgusta.png" alt="TryHackMe">
+	</a>	
 </div>
 
 #### Um pouco mais sobre mim
